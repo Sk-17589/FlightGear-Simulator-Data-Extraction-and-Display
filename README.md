@@ -1,4 +1,4 @@
-# FlightGear Data Extractor MFC
+# FlightGear Simulatir Data Extractor Using MFC Application
 
 ## Overview
 The FlightGear Data Extractor is an MFC (Microsoft Foundation Classes) application designed to extract real-time flight data from the FlightGear simulator. It retrieves various flight parameters including pitch, yaw, roll, speed, altitude, longitude, latitude, and airspeed via the simulator's HTTP server.

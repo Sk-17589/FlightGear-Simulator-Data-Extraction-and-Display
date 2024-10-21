@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Sashank\Projects\FlightGearDataExtractorMFC\build\CMakeFiles\beb0c75fa2fad299a1e9a318c18e7b27\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{C0D9238B-501F-308A-A088-BEF3B3DEDCA6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

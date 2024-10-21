@@ -1,0 +1,10 @@
+^C:\USERS\SASHANK\PROJECTS\FLIGHTGEARDATAEXTRACTORMFC\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/Sashank/Projects/FlightGearDataExtractorMFC -BC:/Users/Sashank/Projects/FlightGearDataExtractorMFC/build --check-stamp-file C:/Users/Sashank/Projects/FlightGearDataExtractorMFC/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

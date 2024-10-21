@@ -1,16 +1,25 @@
-# Ignore compiled files
-*.o
-*.exe
-*.log
-
-# Ignore temporary files
-*.tmp
-*.bak
-
-# Ignore Visual Studio files
+# Visual Studio files
+.vs/
 *.suo
 *.user
-*.userprefs
+*.userosscache
+*.sln.docstates
+*.vcxproj.user
 
-# Ignore build directories
-/build/
+# Build output directories
+x64/
+out/
+Debug/
+Release/
+
+# Object files
+*.obj
+
+# Others
+*.pdb
+*.idb
+*.exe
+*.dll
+*.ilk
+*.log
+*.zip

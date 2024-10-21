@@ -1,4 +1,5 @@
 # Visual Studio
+.vs/
 *.suo
 *.user
 *.userosscache
@@ -10,12 +11,21 @@
 *.opendb
 *.idb
 *.pdb
+
+# Build output directories
+x64/
+out/
+Debug/
+Release/
+
+# Object files
 *.obj
+
+# Executables and libraries
 *.exe
 *.dll
 *.ilk
-*.log
-*.vs
-*.vscode
-*.zip
 
+# Logs and zip files
+*.log
+*.zip

@@ -9,7 +9,7 @@ The FlightGear Data Extractor is an MFC (Microsoft Foundation Classes) applicati
 - User-friendly interface displaying data in separate edit boxes.
 
 ## Purpose
-This application aims to check for the feasiibility of enhancing pilot training within military contexts, particularly at Hindustan Aeronautics Limited (HAL). By enabling the extraction and analysis of flight data from simulators, the tool supports the training of pilots transitioning between different aircraft. This approach allows pilots to practice and refine their skills in a simulated environment without the need for direct engagement with various aircraft, thereby increasing training efficiency and safety.
+This application aims to check for the feasibility of enhancing pilot training within military contexts, particularly at Hindustan Aeronautics Limited (HAL). By enabling the extraction and analysis of flight data from simulators, the tool supports the training of pilots transitioning between different aircraft. This approach allows pilots to practice and refine their skills in a simulated environment without the need for direct engagement with various aircraft, thereby increasing training efficiency and safety.
 
 ## Requirements
 - Windows operating system.

@@ -1,6 +1,16 @@
-.vs/ 
-*.obj 
-*.exe 
-*.log 
-*.user 
-*.ipch 
+# Ignore compiled files
+*.o
+*.exe
+*.log
+
+# Ignore temporary files
+*.tmp
+*.bak
+
+# Ignore Visual Studio files
+*.suo
+*.user
+*.userprefs
+
+# Ignore build directories
+/build/
